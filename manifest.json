@@ -1,14 +1,1 @@
-{
-  "name": "Marcação de Produção",
-  "short_name": "Produção",
-  "description": "Marque peças, quantidades e valores da sua produção.",
-  "start_url": "./index.html",
-  "scope": "./",
-  "display": "standalone",
-  "background_color": "#f6f2fb",
-  "theme_color": "#6d28d9",
-  "icons": [
-    {"src": "./icon-192.png", "sizes": "192x192", "type": "image/png"},
-    {"src": "./icon-512.png", "sizes": "512x512", "type": "image/png"}
-  ]
-}
+{"name":"Marcação de Produção","short_name":"Produção","description":"Controle de peças, quantidades e pagamentos","start_url":"./index.html","scope":"./","display":"standalone","background_color":"#f7f5fb","theme_color":"#6d28d9","icons":[{"src":"./icon-192.png","sizes":"192x192","type":"image/png"},{"src":"./icon-512.png","sizes":"512x512","type":"image/png"}]}
